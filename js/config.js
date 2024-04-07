@@ -1,14 +1,14 @@
 let config = {
     // The title of your website
-    websiteName: "Portfolio Name",
+    websiteName: "Terminal Portfolio",
 
     // You can put anyone as the author. Whos going to notice...
-    author : "Author",
+    author : "Petar Sugarev",
 
     // The welcome text basically
     terminalTitle: "Welcome to",
         // If you want a portion of the title to be highlighted you can do that here. It will be added at the end of the title
-        terminalTitleHighlight: "my portfolio!",
+        terminalTitleHighlight: "the terminal!",
 
     // You can put stuff here. Subtitley!
     terminalSubtitle: `Type "help" for the list of available commands.`,
@@ -17,7 +17,7 @@ let config = {
     pathText: "author@websitename~$ ",
 
     // Copyright goes here. You can leave this blank if you dont want one.
-    copyrightText: "Put your copyright stuff here",
+    copyrightText: "",
 
     // Custom commands. You can delete or add more. Go to customCommands.js to add commands. Then add a line here to link to it as demonstrated below.
     commands: [
