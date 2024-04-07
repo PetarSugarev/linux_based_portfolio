@@ -14,7 +14,7 @@ let config = {
     terminalSubtitle: `Type "help" for the list of available commands.`,
 
     // Website name and author name by default (remember put a space at the end)
-    pathText: "author@websitename~$ ",
+    pathText: "psugarev@terminal~$ ",
 
     // Copyright goes here. You can leave this blank if you dont want one.
     copyrightText: "",
