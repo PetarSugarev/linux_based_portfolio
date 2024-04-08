@@ -4,7 +4,10 @@ let custom = {
         // Look this is self explanitory. Just talk about yourself.
         terminal.append(appendClass("span", "section-title", "About Me:"));
 
-        const aboutMe = `Put whatever about yourself here. "Brag" as one does if you want.`
+        const aboutMe = `System Administrator with 7+ years of experience enhancing IT operations across the enterprise.
+Proven track record of success in developing, deploying and evaluating systems to improve uptime and
+efficiency.
+I have experience in system maintenance and server infrastructure operations management.`
         //
 
         terminal.append(appendClass("span", "output", `     ${aboutMe}`));
@@ -17,9 +20,9 @@ let custom = {
         terminal.append(appendClass("span", "section-title", "Contact:"));
 
         const links = [
-            {contact: "https://www.discord.com", link: "#"},
-            {contact: "http://www.afakelink.org", link: "#"},
-            {contact: "http://www.anotherfakelink.com", link: "#"}
+            {contact: "https://www.linkedin.com", link: "https://www.linkedin.com/in/petar-sugarev-5311b1b9/"},
+            {contact: "http://gmail.com", link: "psugarev@gmail.com"},
+            
         ];
         //
 
