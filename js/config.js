@@ -6,9 +6,9 @@ let config = {
     author : "Petar Sugarev",
 
     // The welcome text basically
-    terminalTitle: "Welcome to",
+    terminalTitle: "Welcome ",
         // If you want a portion of the title to be highlighted you can do that here. It will be added at the end of the title
-        terminalTitleHighlight: "the terminal!",
+        terminalTitleHighlight: " ",
 
     // You can put stuff here. Subtitley!
     terminalSubtitle: `Type "help" for the list of available commands.`,
