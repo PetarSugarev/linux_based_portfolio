@@ -4,10 +4,8 @@ let custom = {
         // Look this is self explanitory. Just talk about yourself.
         terminal.append(appendClass("span", "section-title", "About Me:"));
 
-        const aboutMe = `System Administrator with 7+ years of experience enhancing IT operations across the enterprise.
-Proven track record of success in developing, deploying and evaluating systems to improve uptime and
-efficiency.
-I have experience in system maintenance and server infrastructure operations management.`
+        const aboutMe = `System Administrator with 7+ years of experience enhancing IT operations across the enterprise. Proven track record of success in developing, deploying and evaluating systems to improve uptime and
+efficiency.I have experience in system maintenance and server infrastructure operations management.`
         //
 
         terminal.append(appendClass("span", "output", `     ${aboutMe}`));
@@ -21,7 +19,7 @@ I have experience in system maintenance and server infrastructure operations man
 
         const links = [
             {contact: "https://www.linkedin.com", link: "https://www.linkedin.com/in/petar-sugarev-5311b1b9/"},
-            {contact: "http://gmail.com", link: "psugarev@gmail.com"},
+            {contact: "https://gmail.com", link: "psugarev@gmail.com"},
             
         ];
         //
