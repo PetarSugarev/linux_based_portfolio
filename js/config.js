@@ -1,6 +1,6 @@
 let config = {
     // The title of your website
-    websiteName: "Terminal Portfolio",
+    websiteName: "Terminal",
 
     // You can put anyone as the author. Whos going to notice...
     author : "Petar Sugarev",
@@ -17,7 +17,7 @@ let config = {
     pathText: "root@laboratory~$ ",
 
     // Copyright goes here. You can leave this blank if you dont want one.
-    copyrightText: "",
+    copyrightText: "big 10x to github",
 
     // Custom commands. You can delete or add more. Go to customCommands.js to add commands. Then add a line here to link to it as demonstrated below.
     commands: [
